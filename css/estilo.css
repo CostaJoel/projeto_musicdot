@@ -7,17 +7,14 @@ body{
 }
 
 
-h1 {
-    text-align: center;
+.titulo {
     color:#3d3d3d;
     background-color: #e1edf2;
     padding: 10px;
+    color:blue;
+    text-align: center;
 }
 
-.titulo{
-    color:blue;
-    text-align: left;
-}
 
 #titulo-principal{
     text-align: center;
@@ -30,7 +27,16 @@ p{
     word-spacing: 10px; */
 }
 
-h2{
+div {
+    color: red;
+}
+
+span{
+    color: red;
+    background-color: blue;
+}
+
+.subtitulo{
     border-bottom: 2px solid black;
 }
 
