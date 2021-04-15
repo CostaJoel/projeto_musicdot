@@ -27,9 +27,6 @@ p{
     word-spacing: 10px; */
 }
 
-div {
-    color: red;
-}
 
 span{
     color: red;
@@ -38,6 +35,34 @@ span{
 
 .subtitulo{
     border-bottom: 2px solid black;
+}
+
+.contato-subtitulo{
+    display:inline;
+}
+
+.contato-info-titulo{
+    display: inline;
+}
+
+.contato-info-descricao{
+    display: inline;
+    margin-left: 10px;
+}
+
+.contato-secao-correspondencia{
+    display: inline-block;
+}
+
+.contato-secao-telefone{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 32px;
+}
+
+.contato-info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
 }
 
 figure{
